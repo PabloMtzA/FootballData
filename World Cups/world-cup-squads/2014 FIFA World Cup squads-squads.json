@@ -1,4 +1,11 @@
-[
+{
+  "meta":{
+    "name":"World Cup Squads",
+    "Source":"https://github.com/jokecamp/FootballData/blob/master/World%20Cups/world-cup-squads/2014%20FIFA%20World%20Cup%20squads-squads.json",
+    "page":1
+  },
+    
+    "results":[
   {
     "Team": "Brazil",
     "Number": "1",
@@ -3524,7 +3531,7 @@
     "Number": "8",
     "Position": "FW",
     "FullName": "",
-    "Club": "U.S. CittÃ  di Palermo",
+    "Club": "U.S. CittÃ  di Palermo",
     "ClubCountry": "ITA",
     "DateOfBirth": "1990-8-8",
     "IsCaptain": false
@@ -7360,3 +7367,4 @@
     "IsCaptain": false
   }
 ]
+}
